@@ -9,17 +9,16 @@ git clone https://github.com/andresg0896/Analytics_Alkemy
 
 2. Crear entorno virtual:
 
-    -Para Windows:
-      ```
+-Para Windows:
+```
     python3 -m venv alkemy
     alkemy\\Scripts\\activate.bat
-      ```
-
-    -Para Unix\MacOS:
-      ```
+```
+-Para Unix\MacOS:
+ ```
     python3 -m venv alkemy
     source alkemy/bin/activate
-      ```
+ ```
 3. Instalar dependencias a usar:
 ```
 pip install numpy
